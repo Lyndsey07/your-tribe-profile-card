@@ -19,7 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   
-  height: 100vh;
+  height: 130vh;
   
   font-family: 'Times New Roman', Times, serif;
   color: #ffffff; /* de tekst kleur wordt in hex kleuren bepaald. */
@@ -38,6 +38,8 @@ article {
   align-items: center;
   justify-content: end;
   
+  padding: 15px;
+
   width: 50vw;
   max-width: 25em;
   min-width: 20em;
